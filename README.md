@@ -8,7 +8,7 @@
 
 ## 📜 How to Run the Project
 1. Clone the repository:
-   ```git clone https://github.com/your-username/your-repository.git```
+   ```git clone https://github.com/Davanso/JS-Calculator.git```
    ```cd your-repository```
 2. Install the dependencies:
    ```npm install```
