@@ -14,7 +14,7 @@
    ```npm install```
 3. Start the development server:
    ```npm run dev```
-4. Open your browser and go to ```http://localhost:3000``` to view the portfolio in action.
+4. Open your browser and go to ```http://localhost:3000``` to view the app in action.
    
 
 ## 🔋 Features
